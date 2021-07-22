@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
+    "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
+    "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "projectName": "SmartSchool-WebAPI",
-        "projectPath": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectPath": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "packagesPath": "C:\\Users\\breno.silva\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
