@@ -99,6 +99,26 @@ namespace SmartSchool_WebAPI.Controllers
             }
             return BadRequest("Erro não esperado!");
         }
+        [HttpDelete("{AlunoId}")]
+        public async Task<IActionResult> Delete(int AlunoId, Aluno model)
+        {
+            try
+            {
+                var aluno = await this.repo.GetAlunoAsyncById(AlunoId, false);
+                if (aluno == null) return NotFound();
+
+                this.repo.Delete(model);
+                if (await this.repo.SaveChangesAsync())
+                {
+                    return Ok(model);
+                }
+            }
+            catch (Exception e)
+            {
+                return BadRequest($"Erro {e.Message}");
+            }
+            return BadRequest("Erro não esperado!");
+        }
 
     } // Fim classe
 }     // Fim namespace
