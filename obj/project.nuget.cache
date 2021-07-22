@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qG5aEm+9PIQXqtj2GrX3FUDG0G1fbWzwUKoLh5SAEsMMwQhoFfgO3aOR+pHw3g7Z3uUCYddfhLgwc2PNCo4MjQ==",
+  "dgSpecHash": "vim6L7C2lug2WjRa1//Mnv/QXyQE0zQBqnvk5/ooKY+jWfwMv0Ovc2eb9QEo12LCjPhZwa0O5cwq9z6upws1/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\breno.silva\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.8\\microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",
+    "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.8.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.8\\microsoft.data.sqlite.core.5.0.8.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -28,6 +30,8 @@
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\breno.silva\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\breno.silva\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\breno.silva\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

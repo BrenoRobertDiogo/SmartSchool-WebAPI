@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
+    "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
+    "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectUniqueName": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "projectName": "SmartSchool-WebAPI",
-        "projectPath": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
+        "projectPath": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "packagesPath": "C:\\Users\\breno.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\obj\\",
+        "outputPath": "c:\\Users\\breno.silva\\Documents\\Projetos\\Angular_ASPNETCORE_WebAPI\\SmartSchool-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"
