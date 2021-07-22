@@ -79,18 +79,18 @@ namespace SmartSchool_WebAPI.Controllers
             }
             return BadRequest("Erro não esperado!");
         }
-        [HttpPut("{AlunoId}")]
-        public async Task<IActionResult> Put(int AlunoId, Aluno model)
+        [HttpDelete("{AlunoId}")]
+        public async Task<IActionResult> Delete(int AlunoId)
         {
             try
             {
                 var aluno = await this.repo.GetAlunoAsyncById(AlunoId, false);
                 if (aluno == null) return NotFound();
 
-                this.repo.Update(model);
+                this.repo.Delete(aluno);
                 if (await this.repo.SaveChangesAsync())
                 {
-                    return Ok(model);
+                    return Ok(aluno);
                 }
             }
             catch (Exception e)
